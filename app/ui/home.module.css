@@ -1,0 +1,8 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 20px solid hotpink;
+    border-right: 20px solid rebeccapurple;
+}
